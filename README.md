@@ -1,6 +1,11 @@
 # Invertory
 재고 관리 프로그램
 
+#### 사용언어  
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 ### 기능
 메인 화면  
 ![image](https://github.com/KR-LJH/Invertory/raw/main/%EC%9E%AC%EA%B3%A0%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.PNG)  
